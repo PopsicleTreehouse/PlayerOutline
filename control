@@ -1,0 +1,9 @@
+Package: com.popsicletreehouse.playeroutline
+Name: PlayerOutline
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Color your lockscreen player
+Maintainer: PopsicleTreehouse
+Author: PopsicleTreehouse
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
